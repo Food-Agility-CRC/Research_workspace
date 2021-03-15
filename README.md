@@ -1,3 +1,4 @@
+[Food Agility AWS Research Environment Instructions v1.0.pdf](https://github.com/Food-Agility-CRC/Research_workspace/files/6137920/Food.Agility.AWS.Research.Environment.Instructions.v1.0.pdf)
 # Research_workspace
 Source code to create a AWS virtual private cloud with research workspaces
 
@@ -16,4 +17,4 @@ ASSURANCE OR GUARANTEE THAT THE USE OF THE EXAMPLE VIRUAL RESEARCH ENVIRONMENT W
 ONLINE ENVIRONMENTS. THE USE OF AND ANY APPLICATION OF THIS EXAMPLE IN WHOLE OR IN PART TO REAL LIFE ENVIRONMENTS, WHETHER NOW OR IN THE FUTURE, 
 IS DONE SO AT THE SOLE RISK OF THE USER.
 
-As of 15 March 2021: An installation guide has been committed to the branch
+As of 15 March 2021: An installation guide has been committed to the branch. Available in both README and as a separate file.
