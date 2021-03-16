@@ -1,6 +1,14 @@
 [Food Agility AWS Research Environment Instructions v1.0.pdf](https://github.com/Food-Agility-CRC/Research_workspace/files/6137920/Food.Agility.AWS.Research.Environment.Instructions.v1.0.pdf)
 # Research_workspace
-Source code to create a AWS virtual private cloud with research workspaces
+Source code to create a AWS virtual private cloud with research workspaces.
+
+This sample system provides an environment that enables safe remote access to sensitive
+data. It provides an example of how to enable researchers or any external agent to remotely
+access compute and data resources whilst ensuring that it is difficult to copy sensitive data
+out of the environment. It’s important to acknowledge that it is impossible to ever
+completely prevent data theft where someone has access to that data. The default option in
+this solution is acceptable in a reasonably trusted environment but can be beefed up
+considerably if required
 
 This code is provided up a Creative Commons Share Alike licence. 
 
